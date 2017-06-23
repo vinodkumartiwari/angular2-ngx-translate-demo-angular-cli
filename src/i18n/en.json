@@ -1,0 +1,9 @@
+{
+	"header": {
+		"title": "Welcome to Angular 2",
+		"head": "Here are some links to help you start",
+		"list1":"Tour of Heroes",
+		"list2":"CLI Documentation",
+		"list3":"Angular blog"
+	}
+}
